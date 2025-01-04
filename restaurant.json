@@ -1,0 +1,950 @@
+[
+ 
+   {
+        "id": 1,
+        "name": "Purple Haze Mysuru",
+        "location": "Vijayanagar",
+        "cuisine": "Multicuisine",
+        "foodtype": "Veg/nonveg",
+        "diningtype": "Bar and lounge",
+        "photo": "photos/1.jpg"
+    },
+{
+        "id": 2,
+        "name": "Donne Biriyani Centre",
+        "location": "Vijayanagar",
+        "cuisine": "South indian",
+        "foodtype": "Veg/nonveg ",
+        "diningtype": "Casual dining",
+        "photo": "photos/2.jpg"
+    },
+{
+        "id": 3,
+        "name": "Chamundeshwari Donne Biriyani Centre",
+        "location": "Vijayanagar",
+        "cuisine": "South indian",
+        "foodtype": "Nonveg ",
+        "diningtype": "Casual dining",
+        "photo": "photos/3.jpg"
+    },
+    {
+
+        "id": 4,
+        "name": "Lounge 29 Bar and Kitchen",
+        "location": "Vijayanagar",
+        "cuisine": "Multicuisine ",
+        "foodtype": "Veg/nonveg",
+        "diningtype": "Bar and lounge",
+        "photo": "photos/4.jpg"
+    },
+{
+        "id": 5,
+        "name": "KFC",
+        "location": "Vijayanagar",
+        "cuisine": "Culinary",
+        "foodtype": "Veg/nonveg",
+        "diningtype": "Fast food",
+        "photo": "photos/5.jpg"
+    },
+{
+        "id": 6,
+        "name": "Hyderabadi Biriyani House",
+        "location": "Vijayanagar",
+        "cuisine": "Hyderabadi",
+        "foodtype": "Veg/nonveg",
+        "diningtype": "Casual dining",
+        "photo": "photos/6.jpg"
+    },
+{
+        "id": 7,
+        "name": "Sutra Bistro",
+        "location": "Vijayanagar",
+        "cuisine": "Multicuisine",
+        "foodtype": "Veg/nonveg",
+        "diningtype": "Cafe",
+        "photo": "photos/7.jpg"
+    },
+{
+        "id": 8,
+        "name": "Green Food Court",
+        "location": "Vijayanagar",
+        "cuisine": "Multicuisine",
+        "foodtype": "veg",
+        "diningtype": "Family dining",
+        "photo": "photos/8.jpg"
+    },
+{
+        "id": 9,
+        "name": "Ivory Multicuisine Fine Dine Restaurant",
+        "location": "Vijayanagar",
+        "cuisine": "Multicuisine",
+        "foodtype": "Veg/nonveg",
+        "diningtype": "Fine dining",
+        "photo": "photos/9.jpg"
+    },
+{
+        "id": 10,
+        "name": "H Cube Café and Restaurant",
+        "location": "Vijayanagar",
+        "cuisine": "Multicuisine",
+        "foodtype": "Veg",
+        "diningtype": "Cafe",
+        "photo": "photos/10.jpg"
+    },
+{
+        "id": 11,
+        "name": "Lemon Three Restaurant",
+        "location": "Vijayanagar",
+        "cuisine": "7",
+        "foodtype": "",
+        "diningtype": "Family dining",
+        "photo": "photos/11.jpg"
+    },
+{
+        "id": 12,
+        "name": "Bopy’s Restaurant Bar and Pub",
+        "location": "Vijayanagar",
+        "cuisine": "Multicuisine",
+        "foodtype": "Veg/nonveg",
+        "diningtype": "Bar and lounge",
+        "photo": "photos/12.jpg"
+    },
+{
+        "id": 13,
+        "name": "Empire Restaurant",
+        "location": "Vijayanagar",
+        "cuisine": "Multicuisine",
+        "foodtype": "Veg/nonveg",
+        "diningtype": "Family dining",
+        "photo": "photos/13.jpg"
+    },
+
+{
+        "id": 14,
+        "name": "Pegs and Kegs",
+        "location": "Vijayanagar",
+        "cuisine": "Multicuisine",
+        "foodtype": "Veg/nonveg",
+        "diningtype": "Bar and lounge",
+        "photo": "photos/14.jpg"
+    },
+{
+        "id": 15,
+        "name": "Oyster Bay",
+        "location": "Vijayanagar",
+        "cuisine": "Multicuisine",
+        "foodtype": "Veg/nonveg",
+        "diningtype": "Bar and lounge",
+        "photo": "photos/15.jpg"
+    }  ,
+{
+        "id": 16,
+        "name": "Mysuru Coffee Bar",
+        "location": "Vijayanagar",
+        "cuisine": "South indian",
+        "foodtype": "Vegetarian",
+        "diningtype": "Casual dining",
+        "photo": "photos/16.jpg"
+},
+{
+    "id": 17,
+    "name": "Dosa Point",
+    "location": "Kuvempunagar",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/17.jpg"
+},
+{
+    "id": 18,
+    "name": "Neelanjana Mahesh Prasad",
+    "location": "Kuvempunagar",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/18.jpg"
+},
+{
+    "id": 19,
+    "name": "Pizza Hut",
+    "location": "Kuvempunagar",
+    "cuisine": "Italian",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family Dining",
+    "photo": "photos/19.jpg"
+},
+{
+    "id": 20,
+    "name": "Corner House",
+    "location": "Kuvempunagar",
+    "cuisine": "Desserts and Ice-creams",
+    "foodtype": "Ice creams",
+    "diningtype": "Cafe",
+    "photo": "photos/20.jpg"
+},
+{
+    "id": 21,
+    "name": "Mysuru Mylari",
+    "location": "Kuvempunagar",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/21.jpg"
+},
+{
+    "id": 22,
+    "name": "Fishland Family Restaurant",
+    "location": "Kuvempunagar",
+    "cuisine": "Mangalorean Cuisine",
+    "foodtype": "Veg,Non-veg",
+    "diningtype": "Family Dining",
+    "photo": "photos/22.jpg"
+},
+{
+    "id": 23,
+    "name": "Kafe Biriyani Corner",
+    "location": "Kuvempunagar",
+    "cuisine": "Multi Cuisine",
+    "foodtype": "Non-veg",
+    "diningtype": "Family Dining",
+    "photo": "photos/23.jpg"
+},
+{
+    "id": 24,
+    "name": "Mysuru Dhonne Biriyani",
+    "location": "Kuvempunagar",
+    "cuisine": "South Indian",
+    "foodtype": "Non-Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/24.jpg"
+},
+{
+    "id": 25,
+    "name": "Faasos",
+    "location": "Kuvempunagar",
+    "cuisine": "Multi Cuisine",
+    "foodtype": "Veg",
+    "diningtype": "Takeaway",
+    "photo": "photos/25.jpg"
+},
+{
+    "id": 26,
+    "name": "Tandooriwala",
+    "location": "Kuvempunagar",
+    "cuisine": "Arabic,Hyderabadi",
+    "foodtype": "Non-Veg",
+    "diningtype": "Family dining",
+    "photo": "photos/26.jpg"
+},
+{
+    "id": 27,
+    "name": "Belgian waffle co",
+    "location": "Kuvempunagar",
+    "cuisine": "Culinary",
+    "foodtype": "Snacks and Bakes",
+    "diningtype": "Casual dining",
+    "photo": "photos/27.jpg"
+},
+
+{
+    "id": 28,
+    "name": "Kings Coffee",
+    "location": "Kuvempunagar",
+    "cuisine": "Beverage",
+    "foodtype": "Coffee and Snacks",
+    "diningtype": "Casual dining",
+    "photo": "photos/28.jpg"
+},
+{
+    "id": 29,
+    "name": "Aigiri Cafe",
+    "location": "Kuvempunagar",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/29.jpg"
+},
+{
+    "id": 30,
+    "name": "Ashoka Vatika",
+    "location": "Kuvempunagar",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg",
+    "diningtype": "Family dining",
+    "photo": "photos/30.jpg"
+},
+
+{
+    "id": 31,
+    "name": "Mysuru Darbar Coffee",
+    "location": "Kuvempunagar",
+    "cuisine": "Beverage",
+    "foodtype": "Coffee and Snacks",
+    "diningtype": "FastFood",
+    "photo": "photos/31.jpg"
+},
+{
+    "id": 32,
+    "name": "Sattvik Rooftop cafe",
+    "location": "Agrahara",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg",
+    "diningtype": "Cafe",
+    "photo": "photos/32.jpg"
+},
+{
+    "id":33,
+    "name": "Gufha Restaurant Mysuru",
+    "location": "Agrahara",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/33.jpg"
+},
+{
+    "id": 34,
+    "name": "Sepoy's Phirangi",
+    "location": "Agrahara",
+    "cuisine": "North Indian",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Drink and Dine",
+    "photo": "photos/34.jpg"
+},
+
+{
+    "id": 35,
+    "name": "Green Heritage",
+    "location": "Agrahara",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/35.jpg"
+},
+{
+    "id": 36,
+    "name": "The Beer Cafe Mysuru",
+    "location": "Agrahara",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Drink and Dine",
+    "photo": "photos/36.jpg"
+},
+
+{
+    "id": 37,
+    "name": "The Indian curry house",
+    "location": "Agrahara",
+    "cuisine": "North Indian",
+    "foodtype": "Veg",
+    "diningtype": "Family dining",
+    "photo": "photos/37.jpg"
+},
+{
+    "id": 38,
+    "name": "Hotel RRR Mysore",
+    "location": "Agrahara",
+    "cuisine": "South Indian",
+    "foodtype": "Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/38.jpg"
+},
+{
+    "id": 39,
+    "name": "Panchavati Gardenia Veg Restaurant",
+    "location": "Agrahara",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg",
+    "diningtype": "Family dining",
+    "photo": "photos/39.jpg"
+},
+{
+    "id": 40,
+    "name": "Ashirvaad Grand",
+    "location": "Agrahara",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/40.jpg"
+},
+{
+    "id": 41,
+    "name": "Maddur Tiffanys",
+    "location": "Agrahara",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/41.jpg"
+},
+
+{
+    "id": 42,
+    "name": "Lakshman Mess",
+    "location": "Agrahara",
+    "cuisine": "South Indian",
+    "foodtype": "Non-veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/42.jpg"
+},
+{
+    "id": 43,
+    "name": "Mahesh Prasad Veg Restaurant",
+    "location": "Agrahara",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/43.jpg"
+},
+
+{
+    "id": 44,
+    "name": "HAVANA",
+    "location": "Saraswathipuram",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg",
+    "diningtype": "Cafe",
+    "photo": "photos/44.jpg"
+},
+{
+    "id": 45,
+    "name": "Cucina Fresca",
+    "location": "Saraswathipuram",
+    "cuisine": "Italian",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Cafe",
+    "photo": "photos/45.jpg"
+},
+{
+    "id": 46,
+    "name": "Ramyaa Restaurant",
+    "location": "Saraswathipuram",
+    "cuisine": "South Indian",
+    "foodtype": "veg",
+    "diningtype": "Family dining",
+    "photo": "photos/46.jpg"
+},
+{
+    "id": 47,
+    "name": "Amore Gelato",
+    "location": "Saraswathipuram",
+    "cuisine": "Desserts",
+    "foodtype": "Icecreams and Desserts",
+    "diningtype": "Cafe",
+    "photo": "photos/47.jpg"
+},
+{
+    "id": 48,
+    "name": "Raju Biriyani",
+    "location": "Saraswathipuram",
+    "cuisine": "South Indian",
+    "foodtype": "Non-veg",
+    "diningtype": "Food Truck",
+    "photo": "photos/48.jpg"
+},
+{
+    "id": 49,
+    "name": "Cafe Musica",
+    "location": "Saraswathipuram",
+    "cuisine": "North Indian",
+    "foodtype": "Snacks and Bakes",
+    "diningtype": "Cafe",
+    "photo": "photos/49.jpg"
+},
+{
+    "id": 50,
+    "name": "Deepu Dosa",
+    "location": "Saraswathipuram",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Food Truck",
+    "photo": "photos/50.jpg"
+},
+{
+    "id": 51,
+    "name": "Chutney Dip",
+    "location": "Saraswathipuram",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Food Truck",
+    "photo": "photos/51.jpg"
+},
+{
+    "id": 52,
+    "name": "Sweet Palace Cafe",
+    "location": "Saraswathipuram",
+    "cuisine": "Culinary",
+    "foodtype": "Snacks and Bakes",
+    "diningtype": "Takeaway",
+    "photo": "photos/52.jpg"
+},
+{
+    "id": 53,
+    "name": "Vada Curry",
+    "location": "Saraswathipuram",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/53.jpg"
+},
+{
+    "id": 54,
+    "name": "New Hotel Devi",
+    "location": "Saraswathipuram",
+    "cuisine": "South Indian",
+    "foodtype": "Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/54.jpg"
+},
+{
+    "id": 55,
+    "name": "House of momos",
+    "location": "Saraswathipuram",
+    "cuisine": "Chinese",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/55.jpg"
+},
+{
+    "id": 56,
+    "name": "The Cabana Garden",
+    "location": "Bogadi",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/56.jpg"
+},
+{
+    "id": 57,
+    "name": "Baamboo Multicuisine Restaurant",
+    "location": "Bogadi",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/57.jpg"
+},
+{
+    "id": 58,
+    "name": "Coastal Jewel Multi-Cuisine Family Restaurant",
+    "location": "Bogadi",
+    "cuisine": "Multi cuisine",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/58.jpg"
+},
+{
+    "id": 59,
+    "name": "Coastal Rock",
+    "location": "Bogadi",
+    "cuisine": "Indian",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/59.jpg"
+},
+{
+    "id": 60,
+    "name": "The Courtyard Tree",
+    "location": "Bogadi",
+    "cuisine": "North Indian",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/60.jpg"
+},
+{
+    "id": 61,
+    "name": "Mysuru Grand",
+    "location": "Bogadi",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/61.jpg"
+},
+{
+    "id": 62,
+    "name": "Tattva rasa park view Restaurant",
+    "location": "Bogadi",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/62.jpg"
+},
+{
+    "id": 63,
+    "name": "Coco Grove Restaurant",
+    "location": "Bogadi",
+    "cuisine": "Multi-Cuisine",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/63.jpg"
+},
+{
+    "id": 64,
+    "name": "The Roost-Non veg Family Restaurant",
+    "location": "Bogadi",
+    "cuisine": "Multi-Cuisine",
+    "foodtype": "Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/64.jpg"
+}
+,
+
+{
+    "id": 65,
+    "name": "Mezzaluna",
+    "location": "Gokulam",
+    "cuisine": "Multicuisine",
+    "foodtype": "Veg/nonveg",
+    "diningtype": "Family dining",
+    "photo": "photos/65.jpg"
+},
+{
+    "id": 66,
+    "name": "Kapoor’s Cafe",
+    "location": "Gokulam",
+    "cuisine": "Italian",
+    "foodtype": "Vegetarian",
+    "diningtype": "Family dining",
+    "photo": "photos/66.jpg"
+},
+{
+    "id": 67,
+    "name": "Empire Restaurant",
+    "location": "Gokulam",
+    "cuisine": "Multicuisine",
+    "foodtype": "Veg/nonveg",
+    "diningtype": "Family dining",
+    "photo": "photos/67.jpg"
+},
+{
+    "id": 68,
+    "name": "Biriyani by Kilo",
+    "location": "Gokulam",
+    "cuisine": "Hyderabadi",
+    "foodtype": "Veg/nonveg",
+    "diningtype": "Fine Dining",
+    "photo": "photos/68.jpg"
+},
+{
+    "id": 69,
+    "name": "Onesta",
+    "location": "Gokulam",
+    "cuisine": "Italian",
+    "foodtype": "Veg/nonveg",
+    "diningtype": "Pizzeria",
+    "photo": "photos/69.jpg"
+},
+{
+    "id": 70,
+    "name": "Glen’s Bakehouse",
+    "location": "Gokulam",
+    "cuisine": "Culinary",
+    "foodtype": "Snacks and bakes",
+    "diningtype": "Cafe",
+    "photo": "photos/70.jpg"
+},
+{
+    "id": 71,
+    "name": "Theobroma",
+    "location": "Gokulam",
+    "cuisine": "Culinary",
+    "foodtype": "Snacks and bakes",
+    "diningtype": "Cafe",
+    "photo": "photos/71.jpg"
+},
+{
+    "id": 72,
+    "name": "Burgerman",
+    "location": "Gokulam",
+    "cuisine": "Italian",
+    "foodtype": "Veg/nonveg",
+    "diningtype": "FastFood",
+    "photo": "photos/72.jpg"
+},
+{
+    "id": 73,
+    "name": "Polar Bear",
+    "location": "Gokulam",
+    "cuisine": "Desserts",
+    "foodtype": "Icecream and desserts",
+    "diningtype": "Cafe",
+    "photo": "photos/73.jpg"
+},
+{
+    "id": 74,
+    "name": "Gold Flame",
+    "location": "Gokulam",
+    "cuisine": "Arabic",
+    "foodtype": "Veg/nonveg",
+    "diningtype": "FastFood",
+    "photo": "photos/74.jpg"
+},
+{
+    "id":75,
+    "name": "Gufha Restaurant, Mysuru",
+    "location": "Nazarbad",
+    "cuisine": "Multicuisine",
+    "foodtype": "Veg/nonveg",
+    "diningtype": "Family dining",
+    "photo": "photos/75.jpg"
+},
+{
+    "id":76,
+    "name": "Dakshina Paaka Pure Veg",
+    "location": "Nazarbad",
+    "cuisine": "Multicuisine",
+    "foodtype": "Vegetarian ",
+    "diningtype": "Family dining",
+    "photo": "photos/76.jpg"
+},
+{
+    "id":77,
+    "name": "Old Original Hotel Vinayaka Mylari since 1938",
+    "location": "Nazarbad",
+    "cuisine": "South indian",
+    "foodtype": "Vegetarian ",
+    "diningtype": "Fine dining",
+    "photo": "photos/77.jpg"
+},
+{
+    "id":78,
+    "name": " Cuppa Redefined - Mysore's Neighbourhood Cafe & Restaurant ",
+    "location": "Nazarbad",
+    "cuisine": "Culinary",
+    "foodtype": "Veg/nonveg",
+    "diningtype": "Cafe",
+    "photo": "photos/78.jpg"
+},
+{
+    "id":79,
+    "name": " AMBARA FINE DINNING - Roof Top Vegetarian Restaurant",
+    "location": "Nazarbad",
+    "cuisine": "Multicuisine",
+    "foodtype": "Vegetarian",
+    "diningtype": "Fine dining",
+    "photo": "photos/79.jpg"
+},
+{
+    "id":80,
+    "name": "1983 Lounge & Kitchen by Yuvraj Groups ",
+    "location": "Nazarbad",
+    "cuisine": "North indian",
+    "foodtype": "Veg/nonveg",
+    "diningtype": "Fine dining",
+    "photo": "photos/80.jpg"
+},
+{
+    "id":81,
+    "name": "Ahara Vedh",
+    "location": "Nazarbad",
+    "cuisine": "Multicuisine",
+    "foodtype": "Vegetarian",
+    "diningtype": "Family dining",
+    "photo": "photos/81.jpg"
+},
+{
+    "id":82,
+    "name": " Mysore fish and kabab centre",
+    "location": "Nazarbad",
+    "cuisine": "Seafood",
+    "foodtype": "Non vegetarian",
+    "diningtype": "Takeaway",
+    "photo": "photos/82.jpg"
+},
+{
+    "id":83,
+    "name": "Chitranna Cart",
+    "location": "Nazarbad",
+    "cuisine": "South indian",
+    "foodtype": "Vegetarian",
+    "diningtype": "Food Truck",
+    "photo": "photos/83.jpg"
+},
+{
+    "id":84,
+    "name": "Barista Bean Coffee",
+    "location": "Nazarbad",
+    "cuisine": "Culinary",
+    "foodtype": "Beverages",
+    "diningtype": "Cafe",
+    "photo": "photos/84.jpg"
+},
+{
+    "id": 85,
+    "name": "Original Hanumanthu Hotel",
+    "location": "Mandi Mohalla",
+    "cuisine": "South indian",
+    "foodtype": "Non vegetarian",
+    "diningtype": "Casual dining",
+    "photo": "photos/85.jpg"
+},
+{
+    "id": 86,
+    "name": "A1 Biriyani House",
+    "location": "Mandi Mohalla",
+    "cuisine": "Chinese",
+    "foodtype": "Non vegetarian",
+    "diningtype": "Casual dining",
+    "photo": "photos/86.jpg"
+},
+{
+    "id": 87,
+    "name": "Venkatesh Bhavan",
+    "location": "Mandi Mohalla",
+    "cuisine": "South indian",
+    "foodtype": "Vegetarian",
+    "diningtype": "Casual dining",
+    "photo": "photos/87.jpg"
+},
+{
+    "id": 88,
+    "name": "Panchamukhi Veg",
+    "location": "Mandi Mohalla",
+    "cuisine": "South indian",
+    "foodtype": "Vegetarian",
+    "diningtype": "Family dining",
+    "photo": "photos/88.jpg"
+},
+{
+    "id": 89,
+    "name": "Khwaja Hotel Family Restaurant",
+    "location": "Mandi Mohalla",
+    "cuisine": "Arabic",
+    "foodtype": "Non vegetarian",
+    "diningtype": "Casual dining",
+    "photo": "photos/89.jpg"
+},
+{
+    "id": 90,
+    "name": "Neo Alankar Bar and Restaurant Pub",
+    "location": "Mandi Mohalla",
+    "cuisine": "Multicuisine",
+    "foodtype": "Veg/nonveg",
+    "diningtype": "Bar and Lounge",
+    "photo": "photos/90.jpg"
+},
+{
+    "id": 91,
+    "name": "Zam Zam Hotel",
+    "location": "Mandi Mohalla",
+    "cuisine": "Arabic",
+    "foodtype": "Halal",
+    "diningtype": "Casual dining",
+    "photo": "photos/91.jpg"
+},
+{
+    "id": 92,
+    "name": "Ali Corner",
+    "location": "Mandi Mohalla",
+    "cuisine": "Desserts",
+    "foodtype": "Beverages",
+    "diningtype": "Takeaway",
+    "photo": "photos/92.jpg"
+},
+{
+    "id": 93,
+    "name": "Bismillah Hotel",
+    "location": "Mandi Mohalla",
+    "cuisine": "Arabic",
+    "foodtype": "Halal",
+    "diningtype": "Casual dining",
+    "photo": "photos/93.jpg"
+},
+{
+    "id": 94,
+    "name": "Samosa Centre",
+    "location": "Mandi Mohalla",
+    "cuisine": "Culinary",
+    "foodtype": "Snacks and beverages",
+    "diningtype": "FastFood",
+    "photo": "photos/94.jpg"
+},
+{
+    "id": 95,
+    "name": "Ocean Delight Multi cuisine Restaurant",
+    "location": "Bannimantap",
+    "cuisine": "Multi-cuisine",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/95.jpg"
+},
+{
+    "id": 96,
+    "name": "Seasons Restaurant Mysore",
+    "location": "Bannimantap",
+    "cuisine": "North Indian",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/96.jpg"
+},
+{
+    "id": 97,
+    "name": "Khan Darbar multi cuisine restaurant",
+    "location": "Bannimantap",
+    "cuisine": "Multi-cuisine",
+    "foodtype": "Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/97.jpg"
+},
+{
+    "id": 98,
+    "name": "The Urban Deck",
+    "location": "Bannimantap",
+    "cuisine": "Italian",
+    "foodtype": "Veg/Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/98.jpg"
+},
+{
+    "id": 99,
+    "name": "Grilliez",
+    "location": "Bannimantap",
+    "cuisine": "Multi-cuisine",
+    "foodtype": "Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/99.jpg"
+},
+{
+    "id": 100,
+    "name": "Ashirvaad Grand pure veg Restaurant",
+    "location": "Bannimantap",
+    "cuisine": "South Indian",
+    "foodtype": "Veg",
+    "diningtype": "Family dining",
+    "photo": "photos/100.jpg"
+},
+{
+    "id": 101,
+    "name": "Blue Inn",
+    "location": "Bannimantap",
+    "cuisine": "Mughlai",
+    "foodtype": "Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/101.jpg"
+},
+{
+    "id": 102,
+    "name": "Ethihad Arabian Restaurant",
+    "location": "Bannimantap",
+    "cuisine": "Arabian",
+    "foodtype": "Non-veg",
+    "diningtype": "Casual dining",
+    "photo": "photos/102.jpg"
+},
+{
+    "id": 103,
+    "name": "Sharief Bhai Biryani Mysore",
+    "location": "Bannimantap",
+    "cuisine": "Mughlai",
+    "foodtype": "Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/103.jpg"
+},
+{
+    "id": 104,
+    "name": "Big Grill Restaurant",
+    "location": "Bannimantap",
+    "cuisine": "Mughlai",
+    "foodtype": "Non-veg",
+    "diningtype": "Family dining",
+    "photo": "photos/104.jpg"
+}
+
+]

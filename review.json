@@ -1,0 +1,544 @@
+[
+    {
+        "restaurantId": 1,
+        "review": "A great modern hangout place with rock music theme with indian, asian and continental dishes",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 2,
+        "review": "Nice hotel for Donne Biriyani, excellent service little crowded during weekends. Overall good experience. ",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 2,
+        "review": "Good food but service was late",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 3,
+        "review": "The restaurant brags about the taste of the biryani but I found it to be just average. I would say it’s just a one time thing.",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 3,
+        "review": "Recommended dish - Lemon Chicken",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 4,
+        "review": "It’s a good place to hangout with family friends .Very spacious ,ambience is good except loud music ,we visited during weekday so less crowd ,food is tasty and reasonable ,value for money",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 5,
+        "review": "I recently visited KFC and had a fantastic experience! The chicken was perfectly cooked crispy on the outside and juicy on the inside. The flavors were just right, and I loved the variety of sides available. The staff were friendly and efficient, making the ordering process smooth.",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 6,
+        "review": "Good authentic hyderabadi biriyani available but taste wise it could be better",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 7,
+        "review": "Very good ambience,it has a peaceful and chill vibe and also great food",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 8,
+        "review": "Good food",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 9,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 10,
+        "review": "",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 11,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 12,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+
+    {
+        "restaurantId": 13,
+        "review": "Very tasty tasty biriyani",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 14,
+        "review": "A classy hangout place🍺",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 15,
+        "review": "Good ambience",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 16,
+        "review": "Best place for breakfast",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 17,
+        "review": "Great place for breakfast",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 17,
+        "review": "Must try - Mysuru Masala Dosa",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 18,
+        "review": "A very good family restaurant, both south and north indian dishes were tasty but service was a little late",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 19,
+        "review": "In my opinion it's better than Dominoes",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 20,
+        "review": "Cozy vibe, they have a large varieties of icecreams available",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 21,
+        "review": "Good taste nut parking problem",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 22,
+        "review": "Good family restaurant with authentic sea food",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 23,
+        "review": "Tasty food but pricy",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 24,
+        "review": "Great taste , i would say the price is worth it",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 25,
+        "review": "Nice taste but pricy",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 26,
+        "review": "",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 27,
+        "review": "Nice dessert , cozy vibe",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 28,
+        "review": "The place has very good ambience, and it is a value for money cafe",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 29,
+        "review": "Must try - Ghee pudi open Butter masala dosa",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 30,
+        "review": "veg Breakfast joint",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 31,
+        "review": "cool hangout place with bisi bisi filter coffee",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 32,
+        "review": "Great view",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 33,
+        "review": "Nice ambience , good family restauarnt and tasty food",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 34,
+        "review": "Nice place if you want to have a good time with your friends..if you know what i mean🍺🍺",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 35,
+        "review": "Nice atmosphere and tasty south indian food",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 36,
+        "review": "🍺🍺",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 37,
+        "review": "Tasty tasty",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 38,
+        "review": "one of the famous non veg hotels of mysuru and the taste was really amazing",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 38,
+        "review": "Must try - Mutton Biriyani and Andhra chilli chicken",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 39,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 40,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 41,
+        "review": "maddur vada very nice",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 42,
+        "review": "",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 43,
+        "review": "original mahesh prasad and it has maintained its original taste",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 44,
+        "review": "Nice place for friends to catch up",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 45,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 46,
+        "review": "The food is very tasty but i feel it is a bit pricy",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 47,
+        "review": "cozy ambience, with tasty tasty icecream , my friend Nakul's go to icecream joint🍦",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 48,
+        "review": "If your budget is tight this is just the place you have to go, very tasty food at very affordable rate",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 49,
+        "review": "",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 50,
+        "review": "Worth the wait",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 51,
+        "review": "Tasty idlis at affordable price",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 52,
+        "review": "famous bakery and rightly so",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 53,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 54,
+        "review": "my friend nakul's favourite place",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 55,
+        "review": "",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 56,
+        "review": "It has lost its touch",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 57,
+        "review": "Earlier they allowed drinks from outside but now they serve it in house and hence has become pricy",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 58,
+        "review": "Tasty sea food",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 59,
+        "review": "Service was late and the food was ok",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 60,
+        "review": "The food is tasty but its a bit pricy but this restaurant allows you to take drinks from outside",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 61,
+        "review": "",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 62,
+        "review": "Nice namee",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 63,
+        "review": "great hangout place",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 64,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    
+    {
+        "restaurantId": 65,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 66,
+        "review": "Tasty tasty north indian food",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 67,
+        "review": "wide variety of food available and also the food is tasty",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 68,
+        "review": "Interesting...",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 69,
+        "review": "I would suggest to visit only on tuesdays",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 70,
+        "review": "Great ambience and a cool hangout place",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 71,
+        "review": "Recommended dish - Chocolate Brownie",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 72,
+        "review": "different games available make it a cool hanout place",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 73,
+        "review": "Great ambience and a cool hangout place",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 74,
+        "review": "tasty affordable food, my friend Aryan's go to place",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 75,
+        "review": "Great ambience and tasty food , must visit for families",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 76,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 77,
+        "review": "Must try - SPL Mylari Dosa",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 78,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 79,
+        "review": "Good ambience , nice place for spending time with family",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 80,
+        "review": "Mesmerizing view of Chamundi hills and good ambience with tasty food",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 81,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 82,
+        "review": "",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 83,
+        "review": "My friend Vachan recommended this place, very tasty Chitrana for 40 rs",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 84,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 85,
+        "review": "original is original",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 86,
+        "review": "As in the name A1",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 87,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 88,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 89,
+        "review": "",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 90,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 91,
+        "review": "Taste was just awesome and i felt the prices were also affordable",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 92,
+        "review": "nice dessert shop",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 93,
+        "review": "averge but stays open till 4 am",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "restaurantId": 94,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 95,
+        "review": "Great place to spend quality time with family with some tasty food as well",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 96,
+        "review": "Great ambience and great food",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 97,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 98,
+        "review": "Cool ambience, nice hangout place for italian food lovers",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 99,
+        "review": "Must try - Alfham chicken grill",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 100,
+        "review": "",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 101,
+        "review": "Authentic , fancy mughlai restaurant",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 102,
+        "review": "Great ambience and very tasty biriyani",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 103,
+        "review": "Biriyani taste is nice but my friends didnt like the taste of chicken sides",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "restaurantId": 104,
+        "review": "Not so big grill",
+        "rating": "⭐⭐⭐⭐"
+    }
+]

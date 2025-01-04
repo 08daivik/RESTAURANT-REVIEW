@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Review</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=DM+Serif+Text:ital@0;1&family=Libre+Baskerville&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="welcome" class="page active">
+        <h1>D I N E - R I G H T</h1>
+        <h2>Helping you explore the taste of Mysuru</h2>
+        <button onclick="goToPage('location')">Next</button>
+    </div>
+
+    <div id="location" class="page">
+        <h2>SELECT A LOCATION</h2>
+        <select id="locationDropdown" onchange="showRestaurants()">
+            <option value="">-- Select a Location --</option>
+        </select>
+        <button onclick="goToPage('welcome')">Back</button>
+    </div>
+
+    <div id="restaurants" class="page">
+        <h2 id="res">R E S T A U R A N T S</h2>
+        <div id="restaurantList"></div>
+        <button onclick="goToPage('location')">Back</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

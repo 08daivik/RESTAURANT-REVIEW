@@ -1,0 +1,46 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+.page { display: none; padding: 20px; }
+.active { display: block; }
+.restaurant { margin: 10px 0; padding: 10px; border: 2px solid white; border-radius: 5px; color: white;}
+.restaurant img { max-width: 200px; max-height: 200px; display: block; margin: 10px 0; }
+
+#welcome{
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    margin-top: 15%;
+}
+
+html{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 50px;
+    font-family: "DM Serif Text", serif;
+}
+
+h2{
+    font-style: italic;
+    font-family: "DM Serif Text", serif;
+}
+
+#location{
+    text-align: center;
+    color:bisque;
+    margin-top: 5%;
+    font-size: 20px;
+    background-color: black;
+} 
+
+#restaurants{
+    background-color: black;
+}
+
+#res{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
